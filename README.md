@@ -1,5 +1,7 @@
 # react-ewd: React/Redux client module for [ewd-xpress](https://www.npmjs.com/package/ewd-xpress)
 
+#### ****This module is no longer maintained, please use [react-qewd](https://www.npmjs.com/package/react-qewd) now instead**
+
 Interface module for writing [React](https://www.npmjs.com/package/react) applications with [ewd-xpress (EWD 3)](https://www.npmjs.com/package/ewd-xpress) back-end. Exposes the [ewd-client](https://www.npmjs.com/package/ewd-client) as object, in React context and as property for use in your React components. 
 
 Thanks to [Rob Tweed](https://github.com/robtweed) for providing the [ewd-xpress-react](https://www.npmjs.com/package/ewd-xpress-react) module this interface module code is based on.
